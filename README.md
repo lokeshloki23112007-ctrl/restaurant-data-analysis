@@ -43,6 +43,12 @@ This project focuses on analyzing historical restaurant data to understand prici
 ## 👨‍💻 Author
 
 Lokesh
+## 📂 Repository Contents
+
+- 📓 Google Colab Notebook (.ipynb)
+- 📄 Bangalore Restaurant Analysis Report (PDF)
+- 📄 Pune Restaurant Analysis Report (PDF)
+- 📘 Project Documentation (README)
 
 ## 📌 Project Status
 
